@@ -6,7 +6,7 @@ This project help me build my deep knowledge in spring boot framework by creatin
 
 ## Screenshots
 
-![App Screenshot]([screen shots/Screen shot1.png](https://github.com/AsgarGeorge/movie-review-app/blob/main/screen%20shots/Screen%20shot1.png))
+![App Screenshot](https://github.com/AsgarGeorge/movie-review-app/blob/main/screen%20shots/Screen%20shot1.png)
 
 ## Technology Stack
 
