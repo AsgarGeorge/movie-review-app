@@ -1,6 +1,6 @@
 
 # Movie Review App
-Its a simple web application which is used upload reviews for the movies and storing them in mongoDb data base.
+Its a simple web application which is used to upload reviews for the movies and storing them in mongoDb data base by calling different type of GET,POST..etc requests.
 This project help me build my deep knowledge in spring boot framework by creating rest API to perform crud operation in MongoDb using mongoRepository interface.Learned how to use MongoDb Atlas free tier for building simple applications.also got knowledge about crossOrigin mapping how things work in Internet.
 
 
