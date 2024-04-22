@@ -32,6 +32,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/AsgarGeorge/movie-review-app.git
+```
 
 Go to the project directory
 
